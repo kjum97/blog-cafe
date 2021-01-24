@@ -272,25 +272,32 @@ img{
 
 .site-footer{
     background-color: black;
-    margin-top: 4rem;
-    padding: 3rem;
+    margin-top: 3rem;
 }
-
-.site-footer p{
+.site-footer a p{
     color: white;
     font-size: 4rem;
     font-weight: 400;
     font-family: 'PT sans', sans-serif;
     text-align: center;
-   
+    margin: 1rem auto;
 }
 
-.site-footer p span{
+.site-footer a p span{
     font-weight: 700;
 }
 .site-footer a {
      color: #ffffff;
     text-decoration: none;
+}
+
+.copy{
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 1.8rem;
+    background-color: rgb(24, 22, 22);
+    padding: .5rem;
 }
 
 /****CONTACTO****/
