@@ -340,7 +340,22 @@ img{
     justify-content: flex-end;
 }
 
+/***CONTACTO RECIBIDO ***/
+.recibido p{
+    background-color: rgb(44, 211, 80);
+    font-size: 2.4rem;
+    padding: 3rem;
+    text-align: center;
+    text-transform: uppercase;
+}
+.recibido p span{
+    font-size: 2rem;
+    display: block;
+    text-transform: lowercase;
+}
 
-
-
+.retorno{
+    display: flex;
+    justify-content: center;
+}
 
